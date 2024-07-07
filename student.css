@@ -1,0 +1,13 @@
+.container{
+    height: 500px;
+    width: 300px;
+    background-color:rgb(234, 238, 241);
+    color: black;
+    border: 2px solid black;
+    border-radius: 4px;
+    padding-left: 10px;
+    padding-top: 5px;
+    max-height: 900px;
+    
+   
+}
